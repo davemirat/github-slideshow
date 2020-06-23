@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Need to integrate GIT with Eclipse
 Use the left arrow to go back!
